@@ -1,9 +1,3 @@
-# 构建前安装依赖
-```
-apk add go
-go get github.com/gin-gonic/gin
-go get gopkg.in/yaml.v3
-```
 # goProxyPool
 
 一款无环境依赖开箱即用的免费代理IP池   
